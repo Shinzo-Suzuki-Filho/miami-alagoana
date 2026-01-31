@@ -93,4 +93,4 @@ O logotipo inovador combina elementos tropicais de Alagoas com uma estética tec
 Este projeto foi desenvolvido com uma arquitetura modular, permitindo a adição de novas categorias, serviços governamentais ou integração de novos modelos de IA com facilidade, tornando-o um produto altamente escalável para venda e distribuição.
 
 ---
-**Desenvolvido com 💙 por Antigravity AI.**
+**Desenvolvido por Shinzo Suzuki.**
