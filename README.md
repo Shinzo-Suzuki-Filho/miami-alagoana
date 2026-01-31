@@ -1,4 +1,4 @@
-# 🌴 Miami Alagoana - Mobile App
+# 🌴 Miami Alagoana - Mobile App V 1.0.0
 
 O **Miami Alagoana** é um aplicativo móvel premium e minimalista projetado para ser o guia definitivo para moradores e turistas que desejam explorar Maceió e o interior de Alagoas. 
 
