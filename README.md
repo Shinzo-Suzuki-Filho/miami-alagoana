@@ -85,7 +85,7 @@ O **Miami Alagoana** é um aplicativo móvel premium e minimalista projetado par
 
 O logotipo inovador combina elementos tropicais de Alagoas com uma estética tecnológica moderna, refletindo a proposta do aplicativo de ser "O Melhor Aplicativo Móvel de Alagoas".
 
-![Miami Alagoana Logo](file:///C:/Users/Shinz/.gemini/antigravity/brain/991446cc-531e-4031-bc86-f06a0db5fdb3/miami_alagoana_logo_1769875762817.png)
+![Miami Alagoana Logo](https://github.com/Shinzo-Suzuki-Filho/miami-alagoana/blob/main/src/assets/logo.png)
 
 ---
 
